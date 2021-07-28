@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  font-family: "Comfortaa";
+}
+body {
+  background-color: whitesmoke;
+}
+h1 {
+  font-weight: 700;
+  text-align: center;
+}
+h2 {
+  font-weight: 400;
+  text-align: center;
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#rectangleWrapper {
+  padding: 50px 50px 0 50px;
+}
+.rectangle {
+  width: 18vw;
+  height: 18vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+#rec1 {
+  background-color: #3498db;
+}
+#rec2 {
+  background-color: #45b39d;
+}
+#rec3 {
+  background-color: #45a2b3;
+}
+#rec4 {
+  background-color: #e74c3c;
+}
+#rec5 {
+  background-color: #f39c12;
+}
+#rec6 {
+  background-color: #95a5a6;
+}
+#rec7 {
+  background-color: #7d3c98;
+}
+#rec8 {
+  background-color: #8f54c7;
+}
+#rec9 {
+  background-color: #f4d03f;
+}
+#rec10 {
+  background-color: #2ecc71;
+}
